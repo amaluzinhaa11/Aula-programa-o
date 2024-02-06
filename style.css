@@ -1,0 +1,23 @@
+body {
+    padding-top: 50px;
+    background-image:url(Aesthetic-Wallpaper-Gif-Wallpaper-Aesthetic-3D-Wallpapers.gif);
+
+  }
+  .profile-card {
+    max-width: 400px;
+    margin: 0 auto;
+    background-color:#E6E6FA;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  .profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin: 0 auto;
+    display: block;
+  }
+  .profile-name {
+    text-align: center;
+    margin-top: 20px;
+  }
